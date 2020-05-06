@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Parcial #2 Aplicaciones Moviles</string>
+    <string name="Texto_cedula">Cedula </string>
+    <string name="Texto_nombre">Nombre </string>
+    <string name="Texto_estrato">Estrato</string>
+    <string name="Texto_salario">Salario</string>
+    <string name="Texto_nivel">Nivel de educativo</string>
+    <string name="texto_guardar">Registrar</string>
+    <string name="Texto_listado">Lista</string>
+    <string name="texto_ttitulo">Lista de personas</string>
+    <string name="Hint_cedula">Digite la cedula</string>
+    <string name="Hint_nombre">digite el nombre</string>
+    <string name="Hint_salario">Digite el salario</string>
+
+    <string name="item_codigos">Cedula: </string>
+    <string name="item_pc">Estrato: </string>
+    <string name="item_smart">Salario: </string>
+    <string name="item_internet">Nivel educativo: </string>
+    <string name="item_nombre">Nombre:</string>
+
+
+    <string name="texto_actualizar">Actualizar</string>
+    <string name="texto_eliminar">Cancelar</string>
+
+    <string name="modificar_registro">Modificar</string>
+    <string name="borrar_registro">Eliminar</string>
+
+
+    <string-array name="Niveles">
+        <item>Bachillerato</item>
+        <item>Pregrado</item>
+        <item>Maestría</item>
+        <item>Doctorado</item>
+    </string-array>
+
+    <string-array name="Estratos">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+</resources>
